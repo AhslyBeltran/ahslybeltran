@@ -75,10 +75,6 @@ python -m http.server
 npx serve
 ```
 
-## 🖼️ Captura previa
-
-_Agrega aquí una captura de pantalla de tu portafolio._
-
 ## 🔗 Contacto
 
 ¿Tienes una idea, proyecto o simplemente quieres conocer mi trabajo?
