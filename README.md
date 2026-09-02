@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B0220,50:24104F,100:001F3F&text=Ahsly%20Valentina&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20in%20Progress%20🚀&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B0220,50:24104F,100:001F3F&text=Ahsly%20Valentina&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desarrolladora%20de%20Software%20en%20Progreso%20🚀&descAlignY=58&descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=9D7CFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+universe+%F0%9F%8C%8C;Software+Development+Apprentice+%F0%9F%92%BB;Learning+%7C+Building+%7C+Exploring+%F0%9F%9A%80;Turning+ideas+into+digital+experiences+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=9D7CFF&center=true&vCenter=true&width=800&lines=Bienvenida+a+mi+universo+%F0%9F%8C%8C;Aprendiz+de+Desarrollo+de+Software+%F0%9F%92%BB;Aprendiendo+%7C+Creando+%7C+Explorando+%F0%9F%9A%80;Convirtiendo+ideas+en+experiencias+digitales+%E2%9C%A8"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AhslyBeltran&label=VISITORS&color=8B5CF6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AhslyBeltran&label=VISITAS&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
@@ -16,9 +16,9 @@
 
 <div align="center">
 
-# 🌌 WELCOME TO MY UNIVERSE
+# 🌌 BIENVENIDO A MI UNIVERSO
 
-### ✨ Where curiosity becomes code and ideas become projects.
+### ✨ Donde la curiosidad se convierte en código y las ideas se convierten en proyectos.
 
 </div>
 
@@ -28,21 +28,21 @@
 <tr>
 <td width="55%">
 
-## 👩‍🚀 ABOUT THE EXPLORER
+## 👩‍🚀 SOBRE LA EXPLORADORA
 
-Hi! I'm **Ahsly Valentina** 👋
+¡Hola! Soy **Ahsly Valentina** 👋
 
-I'm a **Software Development student at SENA**, currently exploring the world of programming, web development and software creation.
+Soy **estudiante de Desarrollo de Software en el SENA**, explorando actualmente el mundo de la programación, el desarrollo web y la creación de software.
 
-I enjoy learning new technologies, building projects from scratch and discovering new ways to transform ideas into useful digital solutions.
+Me gusta aprender nuevas tecnologías, construir proyectos desde cero y descubrir nuevas formas de transformar ideas en soluciones digitales útiles.
 
-### 🌠 My current mission
+### 🌠 Mi misión actual
 
-🚀 Learn continuously  
-💻 Build real projects  
-🧠 Improve my programming skills  
-🌌 Explore new technologies  
-✨ Create meaningful digital experiences
+🚀 Aprender constantemente
+💻 Construir proyectos reales
+🧠 Mejorar mis habilidades de programación
+🌌 Explorar nuevas tecnologías
+✨ Crear experiencias digitales significativas
 
 </td>
 
@@ -52,15 +52,15 @@ I enjoy learning new technologies, building projects from scratch and discoverin
 
 <br><br>
 
-### 🛰️ SYSTEM STATUS
+### 🛰️ ESTADO DEL SISTEMA
 
-🟢 **ONLINE**
+🟢 **EN LÍNEA**
 
 🌎 Santander, Colombia
 
-👩‍💻 SENA Apprentice
+👩‍💻 Aprendiz SENA
 
-🚀 Learning & Building
+🚀 Aprendiendo y construyendo
 
 </td>
 </tr>
@@ -70,9 +70,9 @@ I enjoy learning new technologies, building projects from scratch and discoverin
 
 <div align="center">
 
-# 🪐 TECHNOLOGY CONSTELLATION
+# 🪐 CONSTELACIÓN TECNOLÓGICA
 
-### The technologies currently orbiting my universe
+### Las tecnologías que actualmente orbitan mi universo
 
 <br>
 
@@ -99,9 +99,9 @@ I enjoy learning new technologies, building projects from scratch and discoverin
 
 <div align="center">
 
-# 🚀 MISSION CONTROL
+# 🚀 CENTRO DE MISIONES
 
-### Projects currently discovered in my universe
+### Proyectos actualmente descubiertos en mi universo
 
 </div>
 
@@ -116,21 +116,21 @@ I enjoy learning new technologies, building projects from scratch and discoverin
 
 ### RESERVA RESTAURANTE
 
-A web application designed to manage restaurant reservations and provide a better organization of bookings.
+Aplicación web diseñada para gestionar reservas de restaurantes y facilitar la organización de las reservas.
 
 <br>
 
-**TECHNOLOGIES**
+**TECNOLOGÍAS**
 
-HTML  
-CSS  
+HTML
+CSS
 JavaScript
 
 <br>
 
 <a href="https://github.com/AhslyBeltran/Reserva-Restaurante">
 
-<img src="https://img.shields.io/badge/VIEW%20MISSION-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER%20MISIÓN-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -142,22 +142,22 @@ JavaScript
 
 ### FINANZAS PERSONALES
 
-Application created to organize personal income and expenses while providing a clearer view of finances.
+Aplicación creada para organizar ingresos y gastos personales, proporcionando una visión más clara de las finanzas.
 
 <br>
 
-**TECHNOLOGIES**
+**TECNOLOGÍAS**
 
-Python  
-HTML  
-CSS  
+Python
+HTML
+CSS
 JavaScript
 
 <br>
 
 <a href="https://github.com/AhslyBeltran">
 
-<img src="https://img.shields.io/badge/VIEW%20MISSION-22D3EE?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER%20MISIÓN-22D3EE?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -169,23 +169,23 @@ JavaScript
 
 ### PENTASOFT
 
-Event management system created to organize events, participants, registrations and activities.
+Sistema de gestión de eventos creado para organizar eventos, participantes, inscripciones y actividades.
 
 <br>
 
-**TECHNOLOGIES**
+**TECNOLOGÍAS**
 
-PHP  
-SQL  
-JavaScript  
-HTML  
+PHP
+SQL
+JavaScript
+HTML
 CSS
 
 <br>
 
 <a href="https://github.com/AhslyBeltran">
 
-<img src="https://img.shields.io/badge/VIEW%20MISSION-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER%20MISIÓN-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -198,7 +198,7 @@ CSS
 
 <div align="center">
 
-# 🌠 DEVELOPMENT JOURNEY
+# 🌠 MI VIAJE EN EL DESARROLLO
 
 </div>
 
@@ -209,9 +209,9 @@ CSS
 
 🌱
 
-### START
+### INICIO
 
-Discovering programming
+Descubriendo la programación
 
 </td>
 
@@ -233,7 +233,7 @@ HTML · CSS · JavaScript
 
 🐍
 
-### CODE
+### CÓDIGO
 
 Python · PHP
 
@@ -245,9 +245,9 @@ Python · PHP
 
 🗄️
 
-### DATA
+### DATOS
 
-SQL · Databases
+SQL · Bases de datos
 
 </td>
 
@@ -257,9 +257,9 @@ SQL · Databases
 
 🚀
 
-### NEXT
+### SIGUIENTE
 
-Professional Developer
+Desarrolladora Profesional
 
 </td>
 </tr>
@@ -270,9 +270,9 @@ Professional Developer
 
 <div align="center">
 
-# 🛰️ CURRENT TRANSMISSION
+# 🛰️ TRANSMISIÓN ACTUAL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Currently+learning+Software+Development+%F0%9F%92%BB;Building+real+projects+%F0%9F%9A%80;Improving+my+JavaScript+skills+%E2%9A%A1;Exploring+Python+%F0%9F%90%8D;Learning+Git+%26+GitHub+%F0%9F%94%80;Preparing+for+the+next+mission+%F0%9F%8C%8C"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Actualmente+aprendiendo+Desarrollo+de+Software+%F0%9F%92%BB;Construyendo+proyectos+reales+%F0%9F%9A%80;Mejorando+mis+habilidades+en+JavaScript+%E2%9A%A1;Explorando+Python+%F0%9F%90%8D;Aprendiendo+Git+%26+GitHub+%F0%9F%94%80;Preparándome+para+la+próxima+misión+%F0%9F%8C%8C"/>
 
 </div>
 
@@ -280,7 +280,7 @@ Professional Developer
 
 <div align="center">
 
-# 📊 MY GITHUB UNIVERSE
+# 📊 MI UNIVERSO EN GITHUB
 
 <br>
 
@@ -298,7 +298,7 @@ Professional Developer
 
 <div align="center">
 
-# 🐍 CONTRIBUTION GALAXY
+# 🐍 GALAXIA DE CONTRIBUCIONES
 
 <br>
 
@@ -310,7 +310,7 @@ Professional Developer
 
 <div align="center">
 
-# 🌌 WHAT I LOVE EXPLORING
+# 🌌 LO QUE ME ENCANTA EXPLORAR
 
 <br>
 
@@ -321,9 +321,9 @@ Professional Developer
 
 🌐
 
-### WEB DEVELOPMENT
+### DESARROLLO WEB
 
-Creating interfaces and web applications.
+Creando interfaces y aplicaciones web.
 
 </td>
 
@@ -331,9 +331,9 @@ Creating interfaces and web applications.
 
 🧠
 
-### PROGRAMMING
+### PROGRAMACIÓN
 
-Learning how to solve problems with code.
+Aprendiendo a resolver problemas mediante código.
 
 </td>
 
@@ -341,9 +341,9 @@ Learning how to solve problems with code.
 
 🗄️
 
-### DATABASES
+### BASES DE DATOS
 
-Organizing information efficiently.
+Organizando información de manera eficiente.
 
 </td>
 
@@ -355,9 +355,9 @@ Organizing information efficiently.
 
 🎨
 
-### CREATIVE DESIGN
+### DISEÑO CREATIVO
 
-Making projects functional and visually attractive.
+Creando proyectos funcionales y visualmente atractivos.
 
 </td>
 
@@ -365,9 +365,9 @@ Making projects functional and visually attractive.
 
 🚀
 
-### NEW TECHNOLOGY
+### NUEVAS TECNOLOGÍAS
 
-Always curious about what's next.
+Siempre con curiosidad por descubrir lo que viene.
 
 </td>
 
@@ -375,9 +375,9 @@ Always curious about what's next.
 
 🌌
 
-### THE UNIVERSE
+### EL UNIVERSO
 
-One of my favorite things to explore.
+Uno de mis temas favoritos para explorar.
 
 </td>
 
@@ -391,20 +391,36 @@ One of my favorite things to explore.
 
 <div align="center">
 
-# 🎯 NEXT DESTINATIONS
+# 🎯 PRÓXIMOS DESTINOS
 
 ```text
 ╭──────────────────────────────────────────────╮
 │                                              │
-│       🌌 FUTURE MISSION OBJECTIVES           │
+│       🌌 OBJETIVOS DE MI PRÓXIMA MISIÓN     │
 │                                              │
-│       ✓ Strengthen programming skills        │
-│       ✓ Build more real-world projects      │
-│       ✓ Learn new technologies               │
-│       ✓ Improve my web development           │
-│       ✓ Grow as a software developer         │
-│       ✓ Create something extraordinary       │
+│       ✓ Fortalecer mis habilidades          │
+│         de programación                      │
+│       ✓ Construir más proyectos reales      │
+│       ✓ Aprender nuevas tecnologías         │
+│       ✓ Mejorar mi desarrollo web           │
+│       ✓ Crecer como desarrolladora          │
+│       ✓ Crear algo extraordinario           │
 │                                              │
-│              🚀 MISSION: ACTIVE              │
+│              🚀 MISIÓN: ACTIVA              │
 │                                              │
 ╰──────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 "Cada línea de código es un pequeño paso hacia el universo que quiero construir."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:001F3F,50:24104F,100:0B0220&section=footer"/>
+
+</div>
